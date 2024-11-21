@@ -10,5 +10,3 @@ Este é um projeto de site pessoal para a nutricionista Maria Evellyn, destacand
 - [Bootstrap] (para responsividade)
 - [Google Fonts] (para fontes personalizadas)
 - [AOS (Animate On Scroll)] (para animações ao rolar)
-# nutrievellyntest
-# nutrievellyntest
