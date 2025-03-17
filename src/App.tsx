@@ -46,7 +46,7 @@ const Home = () => (
     <section className="grid md:grid-cols-2 gap-8 lg:gap-12 items-center">
       <div className="relative aspect-[4/3] sm:aspect-[16/9] md:aspect-[4/3]">
         <img 
-          src="src/imgs/evellyimg/ev4.jpg" 
+          src="/imgs/evellyimg/ev4.jpg" 
           alt="Maria Evellyn com bonecos de alimentos" 
           className="rounded-2xl shadow-xl w-full h-full object-cover"
           loading="lazy"

@@ -15,126 +15,126 @@ const certifications: Certification[] = [
     title: "Especialização em Naturopata Bio-Ortomolecular",
     institution: "IV Curso Introdutório de Naturopatia",
     year: "2022",
-    imagePath: "src/imgs/certificados/cert1.png"
+    imagePath: "/imgs/certificados/cert1.png"
   },
   {
     id: 2,
     title: "Suplementação Nutricional: Concepção á Adolescência",
     institution: "ArinaBonelli - Materno Infanto Juvenil",
     year: "2022",
-    imagePath: "src/imgs/certificados/cert2.png"
+    imagePath: "/imgs/certificados/cert2.png"
   },
   {
     id: 3,
     title: "Atuação Interdisciplinar no Autismo",
     institution: "Faculdade IDE",
     year: "2022",
-    imagePath: "src/imgs/certificados/cert3.png"
+    imagePath: "/imgs/certificados/cert3.png"
   },
   {
     id: 4,
     title: "Jogos Lúdicos Para Alfabetização",
     institution: "Fernanda Ávila",
     year: "2022",
-    imagePath: "src/imgs/certificados/cert4.png"
+    imagePath: "/imgs/certificados/cert4.png"
   },
   {
     id: 5,
     title: "Capacitação e Aprimoramento em ABA",
     institution: "Curso ABA",
     year: "2024",
-    imagePath: "src/imgs/certificados/cert5.png"
+    imagePath: "/imgs/certificados/cert5.png"
   },
   {
     id: 6,
     title: "Pós-Graduação Nutrição Materno Infantil",
     institution: "Faculdade Metropolitana",
     year: "2018",
-    imagePath: "src/imgs/certificados/cert6.png"
+    imagePath: "/imgs/certificados/cert6.png"
   },
   {
     id: 7,
     title: "VB-MAPP Descomplicado ",
     institution: "VB-MAAP",
     year: "2024",
-    imagePath: "src/imgs/certificados/cert7.png"
+    imagePath: "/imgs/certificados/cert7.png"
   },
   {
     id: 8,
     title: "Giro Ciclos",
     institution: "Instituto Ciclos PÓS-GRADUAÇÃO e Cursos LTDA",
     year: "2023",
-    imagePath: "src/imgs/certificados/cert8.png"
+    imagePath: "/imgs/certificados/cert8.png"
   },
   {
     id: 9,
     title: "Nutrologia Pediátrica",
     institution: "NutroPedcon ",
     year: "2023",
-    imagePath: "src/imgs/certificados/cert9.png"
+    imagePath: "/imgs/certificados/cert9.png"
   },
   {
     id: 10,
     title: "Interpretação de Exames Laboratoriais",
     institution: "Nutricionista Diana Belen Lopez",
     year: "2023",
-    imagePath: "src/imgs/certificados/cert10.png"
+    imagePath: "/imgs/certificados/cert10.png"
   },
   {
     id: 11,
     title: "Simpósio Internacional Multidisciplinar de Saúde",
     institution: "Unibra",
     year: "2022",
-    imagePath: "src/imgs/certificados/cert11.png"
+    imagePath: "/imgs/certificados/cert11.png"
   },
   {
     id: 12,
     title: "Meeting Especial - Dia do Nutricionista",
     institution: "Unibra",
     year: "2021",
-    imagePath: "src/imgs/certificados/cert12.png"
+    imagePath: "/imgs/certificados/cert12.png"
   },
   {
     id: 13,
     title: "Nutrição e Mercado de Trabalho - Noite",
     institution: "Unibra",
     year: "2019",
-    imagePath: "src/imgs/certificados/cert13.png"
+    imagePath: "/imgs/certificados/cert13.png"
   },
   {
     id: 14,
     title: "Jornada Acadêmica - Nutrição",
     institution: "Unibra",
     year: "2019",
-    imagePath: "src/imgs/certificados/cert14.png"
+    imagePath: "/imgs/certificados/cert14.png"
   },
   {
     id: 15,
     title: "Meeting do Curso Bacharelado em Nutrição",
     institution: "Unibra",
     year: "2020",
-    imagePath: "src/imgs/certificados/cert15.png"
+    imagePath: "/imgs/certificados/cert15.png"
   },
   {
     id: 16,
     title: "Nutrição na Prática Esportiva. Pós-Graduação",
     institution: "Faculdade Metropolitana",
     year: "2018",
-    imagePath: "src/imgs/certificados/cert16.png"
+    imagePath: "/imgs/certificados/cert16.png"
   },
   {
     id: 17,
     title: "Montagem de Cardápios do Nutriocionista na Merenda Escolar",
     institution: "Unibra",
     year: "2019",
-    imagePath: "src/imgs/certificados/cert17.png"
+    imagePath: "/imgs/certificados/cert17.png"
   },
   {
     id: 18,
     title: "Alimentação Pediátrica Através de uma Lente Compassiva",
     institution: "Equipe EnVuelo Formação",
     year: "2023",
-    imagePath: "src/imgs/certificados/cert18.png"
+    imagePath: "/imgs/certificados/cert18.png"
   }
 ];
 
