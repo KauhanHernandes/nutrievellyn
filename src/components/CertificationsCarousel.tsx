@@ -135,6 +135,13 @@ const certifications: Certification[] = [
     institution: "Equipe EnVuelo Formação",
     year: "2023",
     imagePath: "/imgs/certificados/cert18.png"
+  },
+  {
+    id: 18,
+    title: "Seletividade Alimentar",
+    institution: "CBI of MAIAMI",
+    year: "2025",
+    imagePath: "/imgs/certificados/cert19.jpg"
   }
 ];
 
